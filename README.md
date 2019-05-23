@@ -1,9 +1,5 @@
-# CreatRepositoryTest
-CreatRepositoryTest
+Azure Resource Move Validated
 
-noo
-
-nooo
+Azure subscription need to validated before move resource to other subscription .
 
 
-see me?
